@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Tiran98/Tiran98/blob/main/logo.png" width = "250"></br>
   <h1 align="center">Tiran Hettiarachchi</h1>
-  <img src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.twitter.com/PrasadC73326554)](https://www.twitter.com/PrasadC73326554">
+  <img align ="center" src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.twitter.com/PrasadC73326554)](https://www.twitter.com/PrasadC73326554">
   <h3 align="center">Full Stack Developer</h3>
 </p>
 

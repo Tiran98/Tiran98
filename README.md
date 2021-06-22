@@ -4,7 +4,7 @@
 ### ✪ Undergraduate Student at [ SLIIT ](https://www.sliit.lk)
 ### ✪ Full Stack Intern at [ IdealSoft ](https://idealsoft.lk)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiran98&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)                              [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiran98&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiran98&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiran98&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
@@ -30,3 +30,9 @@
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=ff471a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ff471a)
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ff471a)
+
+### Other Skills
+
+![](https://img.shields.io/badge/Other-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=1a1aff)
+![](https://img.shields.io/badge/Other-AWS-informational?style=flat&logo=aws&logoColor=white&color=1a1aff)
+

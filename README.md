@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Tiran Hettiarachchci 
+### Hi there 👋 I'm Tiran Hettiarachchchi 
 
-      
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Tiran Hettiarachchi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tiran Hettiarachchi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_tiran_j98/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/T.M Hettiarachchi)        
 
 ### ✪ Undergraduate Student at [ SLIIT ](https://www.sliit.lk)
 ### ✪ Full Stack Intern at [ IdealSoft ](https://idealsoft.lk)

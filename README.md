@@ -10,7 +10,6 @@
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffbf00)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffbf00)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ffbf00)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffbf00)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=ffbf00)
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffbf00)
@@ -34,5 +33,6 @@
 ### Other Skills
 
 ![](https://img.shields.io/badge/Other-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=1a1aff)
-![](https://img.shields.io/badge/Other-AWS-informational?style=flat&logo=aws&logoColor=white&color=1a1aff)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=1a1aff)
+![](https://img.shields.io/badge/Other-AWS-informational?style=flat&logo=amazon&logoColor=white&color=1a1aff)
 

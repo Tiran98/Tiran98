@@ -2,11 +2,10 @@
   <img src="https://github.com/Tiran98/Tiran98/blob/main/logo.png" width = "250"></br>
   <h1 align="center">Tiran Hettiarachchi</h1>
   <p align="center">
-    <img src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.twitter.com/PrasadC73326554)](https://www.twitter.com/PrasadC73326554">
-    <img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__chathuwa__)](https://www.instagram.com/__chathuwa__">
-    <img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Prasad.Chathuranga.9710/)](https://www.facebook.com/Prasad.Chathuranga.9710/">
-    <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasad-chathuranga-371024191/)](https://www.linkedin.com/in/prasad-chathuranga-371024191/">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10854447/prasad-chathuranga)](https://stackoverflow.com/users/10854447/prasad-chathuranga">
+    <img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_tiran_j98)](https://www.instagram.com/_tiran_j98">
+    <img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mihiraj.hettiarachchi.5/)](https://www.facebook.com/mihiraj.hettiarachchi.5/">
+    <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiran-hettiarachchi-651b8118b/)](https://www.linkedin.com/in/tiran-hettiarachchi-651b8118b/">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11558768/t-m-hettiarachchi)](https://stackoverflow.com/users/11558768/t-m-hettiarachchi">
   </p>
   <h3 align="center">Full Stack Developer</h3>
 </p>

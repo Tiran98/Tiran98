@@ -9,4 +9,5 @@
 ### Skills
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffbf00)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=ffbf00)
 

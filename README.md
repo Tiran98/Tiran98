@@ -3,8 +3,6 @@
   <h1 align="center">Tiran Hettiarachchi</h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.twitter.com/PrasadC73326554)](https://www.twitter.com/PrasadC73326554">
-  </p>
-  <p align="center">
     <img src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.twitter.com/PrasadC73326554)](https://www.twitter.com/PrasadC73326554">
   </p>
   <h3 align="center">Full Stack Developer</h3>

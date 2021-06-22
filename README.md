@@ -24,3 +24,7 @@
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+
+### Databases
+
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sql&logoColor=white&color=ff471a)

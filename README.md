@@ -19,4 +19,4 @@
 
 ### FrameWorks
 
-![](https://img.shields.io/badge/Framework-VUE-informational?style=flat&logo=vue&logoColor=white&color=ffbf00)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue&logoColor=white&color=ffbf00)

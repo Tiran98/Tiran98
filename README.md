@@ -27,4 +27,6 @@
 
 ### Databases
 
-![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sql&logoColor=white&color=ff471a)
+![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=ff471a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ff471a)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ff471a)

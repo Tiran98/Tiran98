@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Tiran Hettiarachchchi 
 
-<img src="https://github.com/Tiran98/Tiran98/blob/main/logo.png" width = "250" style="margin-left:250px">
+<p align="center">
+  <img src="https://github.com/Tiran98/Tiran98/blob/main/logo.png" width = "250">
+</p>
 
 ### ✪ Undergraduate Student at [ SLIIT ](https://www.sliit.lk)
 ### ✪ Full Stack Intern at [ IdealSoft ](https://idealsoft.lk)

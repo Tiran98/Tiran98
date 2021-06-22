@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Tiran Hettiarachchchi 
 
 <p align="center">
-  <img src="https://github.com/Tiran98/Tiran98/blob/main/logo.png" width = "250">
+  <img src="https://github.com/Tiran98/Tiran98/blob/main/logo.png" width = "250"></br>
+  <h1>Tiran Hettiarachchi</h1>
 </p>
 
 ### ✪ Undergraduate Student at [ SLIIT ](https://www.sliit.lk)

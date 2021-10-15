@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Tiran98/Tiran98/blob/main/logo.png" width = "250"></br>
   <h1 align="center">Tiran Hettiarachchi</h1>
   <p align="center">
@@ -43,5 +43,5 @@
 
 ![](https://img.shields.io/badge/Other-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=1a1aff)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=1a1aff)
-![](https://img.shields.io/badge/Other-AWS-informational?style=flat&logo=amazon&logoColor=white&color=1a1aff)
+![](https://img.shields.io/badge/Other-AWS-informational?style=flat&logo=amazon&logoColor=white&color=1a1aff) -->
 

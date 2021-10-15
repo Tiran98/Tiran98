@@ -2,7 +2,7 @@
   <img src="https://github.com/Tiran98/Tiran98/blob/main/logo.png" width = "250"></br>
 <!--   <h1 align="center">Tiran Hettiarachchi</h1> -->
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tiran+Hettiarachchi!;&font=Fira%20Code&center=true&width=500&height=55"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tiran+Hettiarachchi!;&font=Fira%20Code&center=true&width=500&height=55">
 
   <p align="center">
     <a href="https://www.instagram.com/_tiran_j98"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_tiran_j98)](https://www.instagram.com/_tiran_j98"></a>

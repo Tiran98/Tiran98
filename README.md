@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/Tiran98/Tiran98/blob/main/logo.png" width = "250"></br>
-  <h1 align="center">Tiran Hettiarachchi</h1>
+<!--   <h1 align="center">Tiran Hettiarachchi</h1> -->
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Tiran+Hettiarachchi!;&font=Fira%20Code&center=true&width=500&height=50">
+
   <p align="center">
     <a href="https://www.instagram.com/_tiran_j98"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_tiran_j98)](https://www.instagram.com/_tiran_j98"></a>
     <a href="https://www.facebook.com/mihiraj.hettiarachchi.5/"><img src="https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mihiraj.hettiarachchi.5/)](https://www.facebook.com/mihiraj.hettiarachchi.5/"></a>
